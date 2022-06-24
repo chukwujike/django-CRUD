@@ -1,1 +1,1 @@
-# djangp-CRUD
+# django-CRUD
